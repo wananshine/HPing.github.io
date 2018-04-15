@@ -9,7 +9,7 @@
     {%- assign _pages = site.html_pages | where_exp: "page", "page.hide != true" -%}
     {%- unless _pages == null -%}
       {%- assign _pages = _pages | sort: 'order' -%}
-      {%- for _page in _pages._pageslist -%}
+      {%- for _page in _pageslist -%}
         {%- assign _title = _page.title | default: _page.layout -%}
         {%- assign _slug = _title | slugify -%}
         {%- assign _icon = _page.icon | default: 'fa-link' -%}
