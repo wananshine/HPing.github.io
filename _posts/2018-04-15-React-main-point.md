@@ -7,7 +7,7 @@ layout: post
 	<div>
 
 
-		<h3>React基础知识点</h3>
+		<h3>知识点列表</h3>
 		<ul>
 			<li>1.Topics</li>
 			<li>2.React features</li>
@@ -16,10 +16,10 @@ layout: post
 			<li>5.ES6 syntax</li>
 			<li>6.Component/class structure</li>
 			<li>
-				7.
-				<p><small>a): Render and JSX: intro/className</small></p>
-				<p><small>b): Render and JSX: JavaScript logic</small></p>
-				<p><small>c): Render and JSX: Rendering Lists</small></p>
+				7.<br />
+				<small>a): Render and JSX: intro/className</small><br />
+				<small>b): Render and JSX: JavaScript logic</small><br />
+				<small>c): Render and JSX: Rendering Lists</small><br />
 			</li>
 			<li>8.Event handlers</li>
 			<li>9.Refs</li>
@@ -36,11 +36,11 @@ layout: post
 			<li>20.Conditional rendering strategies</li>
 			<li>21.React Router</li>
 			<li>
-				22.
-				<p><small>a): Simple CRUD app:GET</small></p>
-				<p><small>b): Simple CRUD app:DELETE</small></p>
-				<p><small>c): Simple CRUD app:ADD</small></p>
-				<p><small>c): Simple CRUD app:EDIT</small></p>
+				22.<br />
+				<small>a): Simple CRUD app:GET</small><br />
+				<small>b): Simple CRUD app:DELETE</small><br />
+				<small>c): Simple CRUD app:ADD</small><br />
+				<small>c): Simple CRUD app:EDIT</small><br />
 			</li>
 		</ul>
 		<a href="https://www.youtube.com/watch?v=S66rHpyU-Eg">去看该视频</a>
