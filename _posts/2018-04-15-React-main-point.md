@@ -1,5 +1,5 @@
 ---
-title: Sublime Text3 配置
+title: React main-point
 author: JHPing
 layout: post
 ---
