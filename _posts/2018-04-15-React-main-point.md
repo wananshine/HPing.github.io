@@ -16,7 +16,7 @@ layout: post
 			<li>5.ES6 syntax</li>
 			<li>6.Component/class structure</li>
 			<li>
-				7.<br />
+				7.Render and JSX<br />
 				<small>a): Render and JSX: intro/className</small><br />
 				<small>b): Render and JSX: JavaScript logic</small><br />
 				<small>c): Render and JSX: Rendering Lists</small><br />
@@ -36,7 +36,7 @@ layout: post
 			<li>20.Conditional rendering strategies</li>
 			<li>21.React Router</li>
 			<li>
-				22.<br />
+				22.Simple CRUD app<br />
 				<small>a): Simple CRUD app:GET</small><br />
 				<small>b): Simple CRUD app:DELETE</small><br />
 				<small>c): Simple CRUD app:ADD</small><br />
