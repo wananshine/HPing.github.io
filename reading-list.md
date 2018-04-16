@@ -17,6 +17,7 @@ I love books! Here are some I'm reading now:
 7. Thomas Wolfe: *Look Homeward, Angel*
 8. William Thackeray: *Pendennis*
 9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+10. 阮一峰日誌-搭建Blog-github-Pages和Jekyll: *<a href="http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html">跳轉</a>*
+11. 阮一峰日誌-JavaScript(共84篇文章): *<a href="http://www.ruanyifeng.com/blog/javascript/">跳轉</a>*
 
 source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
