@@ -45,15 +45,29 @@ layout: post
 		<h3>主题配置</h3>
 		<dl>
 			<dt>1.Boxy</dt>
-			<dd>自带多种主题风格，可以融合ihodev/sublime-file-icons；切换主题风格不必改配置;</dd>
+			<dd>自带多种主题风格，可以融合ihodevsublime-file-icons；切换主题风格不必改配置,个人推荐;</dd>
 			<dt>2.Seti_UI</dt>
-			<dd>非常好用的一款主题，个人推荐</dd>
+			<dd>非常好用的一款主题,个人推荐;</dd>
 			<dt>3.Agila</dt>
 			<dd>文件树中间距很大的文件夹，以便于阅读;</dd>
 			<dt>4.Lanzhou</dt>
-			<dd>边栏和编辑器之间的良好对比</dd>
+			<dd>边栏和编辑器之间的良好对比;</dd>
+			<dt>5.itg:Flat</dt>
+			<dd>一个扁平化设计风格主题,个人推荐</dd>
+			<dt>6.Spacegray</dt>
+			<dd>该主题在 UI 上没什么吸引人之处，但很适合编码;</dd>
+			<dt>7.Solarized</dt>
+			<dd>非常精确的颜色设置，这些颜色在不同的设备和不同的亮度环境下测试过;</dd>
+			<dt>8.Predawn</dt>
+			<dd>Predawn 非常漂亮，特别适合编写代码;</dd>
+			<dt>9.Tron Legacy</dt>
+			<dd>Tron 电影迷们可能会喜欢这一款主题，因为颜色相似;</dd>
+			<dt>10.Tomorrow Theme</dt>
+			<dd>Tomorrow 主题颜色丰富，有着强烈的对比,个人推荐;</dd>
+			<dt>11.Brogrammar</dt>
+			<dd>扁平而且性感的设计,个人推荐;</dd>
 		</dl>
-		<p>附上几款比较好的主题<a href="https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016">best-sublime-text-3-themes</a></p>
+		<p>附上几款其他比较好的主题<a href="https://scotch.io/bar-talk/best-sublime-text-3-themes-of-2015-and-2016">best-sublime-text-3-themes</a></p>
 
 
 
